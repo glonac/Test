@@ -6,8 +6,9 @@ Route::get('/','IndexController@index');
 Route::get('welcome', function(){
     return view ('welcome');
 });
-Route::get('/news','NewsController@index');
+Route::get('/news','NewsController@index')->name('news-list');
 Route::get('/news/{id}','NewsController@show')->name('news_show');
+Route::get('/articles','ClauseController@list')->name('articles-list');
 /*
 |--------------------------------------------------------------------------
 | Web Routes

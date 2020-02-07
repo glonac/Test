@@ -20,14 +20,22 @@
         </a>
         <a class="py-2 d-none d-md-inline-block" href="#">Главная</a>
         <a class="py-2 d-none d-md-inline-block" href="#">События</a>
-        <a class="py-2 d-none d-md-inline-block" href="#">Статьи</a>
+        <a class="py-2 d-none d-md-inline-block" href="{{route('articles-list')}}">Статьи</a>
+        <a class="py-2 d-none d-md-inline-block" href="{{route('news-list')}}">Новости</a>
         <a class="py-2 d-none d-md-inline-block" href="#">Доп.Материалы</a>
         <a class="py-2 d-none d-md-inline-block" href="#">Персонал</a>
     </div>
 </nav>
 <body>
-
-@yield('section-main')
-
+<div class="container-fluid pl-0 pr-0">
+    @yield('section-main')
+</div>
+<footer id="footer">
+    <div class="row ml-0 mr-0 pt-4 pb-4">
+        <div class="col-12">
+            Knowledge © 2019
+        </div>
+    </div>
+</footer>
 </body>
-@include('frontend.footer')
+</html>

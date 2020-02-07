@@ -146,7 +146,8 @@
       <workItem from="1581006618677" duration="517000" />
       <workItem from="1581007346819" duration="795000" />
       <workItem from="1581008337904" duration="348000" />
-      <workItem from="1581009013727" duration="2016000" />
+      <workItem from="1581009013727" duration="6166000" />
+      <workItem from="1581091093778" duration="5806000" />
     </task>
     <servers />
   </component>
@@ -154,11 +155,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="323" y="57" key="#CLI_Interpreters" timestamp="1581008421690">
+    <state x="323" y="57" key="#CLI_Interpreters" timestamp="1581014460826">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="263" y="43" key="#CLI_Interpreters/0.0.1366.768@0.0.1366.768" timestamp="1580919526730" />
-    <state x="323" y="57" key="#CLI_Interpreters/0.0.1680.1010@0.0.1680.1010" timestamp="1581008421690" />
+    <state x="323" y="57" key="#CLI_Interpreters/0.0.1680.1010@0.0.1680.1010" timestamp="1581014460826" />
     <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581009893836">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -168,20 +169,20 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="640" y="616" key="ComposerInitDialogKey/0.0.1680.1010@0.0.1680.1010" timestamp="1581006923476" />
-    <state x="763" y="147" key="FileChooserDialogImpl" timestamp="1581009391979">
+    <state x="763" y="147" key="FileChooserDialogImpl" timestamp="1581014443192">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="620" y="112" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1580919522370" />
-    <state x="763" y="147" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1581009391979" />
+    <state x="763" y="147" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1581014443192" />
     <state x="518" y="316" key="NewPhpFileDialog" timestamp="1580920980622">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="518" y="316" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1580920980622" />
-    <state x="229" y="39" key="SettingsEditor" timestamp="1581009395697">
+    <state x="229" y="39" key="SettingsEditor" timestamp="1581014461439">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="186" y="30" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580923273259" />
-    <state x="229" y="39" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1581009395697" />
+    <state x="229" y="39" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1581014461439" />
     <state x="113" y="121" width="1454" height="769" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581010250852">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
@@ -191,11 +192,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1580926785330" />
-    <state x="480" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1581009014594">
+    <state x="480" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1581091095242">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="390" y="213" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1580991896997" />
-    <state x="480" y="280" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581009014594" />
+    <state x="480" y="280" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581091095242" />
+    <state x="484" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581095585033">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="484" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1581095585033" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580926469675">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
