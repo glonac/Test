@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="">
+    <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="Progect like me">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_29_08_2020__13_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/b.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/frontend/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/header.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/frontend/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/main.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +31,28 @@
       <phar pharPath="E:\os\OSPanel\domains\knowledge\composer.phar" interpreterId="dbfecf9c-620e-4500-a71c-d58ead16665f" />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Constanton" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1">
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/psy/psysh" />
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
@@ -103,23 +136,35 @@
       <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
     </include_path>
   </component>
   <component name="ProjectId" id="1XOZVHw5zzXAXQWowqLwwX2JiYk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Sait" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServereeee\OSPanel\domains\knowledge\app\Models" />
       <recent name="D:\OpenServereeee\OSPanel\domains\b\app\Models" />
     </key>
   </component>
@@ -129,6 +174,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -148,62 +194,158 @@
       <workItem from="1581008337904" duration="348000" />
       <workItem from="1581009013727" duration="6166000" />
       <workItem from="1581091093778" duration="5806000" />
+      <workItem from="1588250276589" duration="614000" />
+      <workItem from="1591883629282" duration="7826000" />
+      <workItem from="1591969841974" duration="601000" />
+      <workItem from="1592403413786" duration="3522000" />
+      <workItem from="1592416085946" duration="620000" />
+      <workItem from="1592501986274" duration="66000" />
+      <workItem from="1592505755958" duration="5700000" />
+      <workItem from="1592579692639" duration="1527000" />
+      <workItem from="1592583871703" duration="4773000" />
+      <workItem from="1592591283393" duration="2199000" />
+      <workItem from="1592597097617" duration="770000" />
+      <workItem from="1592667466570" duration="2127000" />
+      <workItem from="1592824137968" duration="3339000" />
+      <workItem from="1592848156043" duration="5839000" />
+      <workItem from="1592944552217" duration="2520000" />
+      <workItem from="1593008252922" duration="13966000" />
+      <workItem from="1593172859163" duration="1874000" />
+      <workItem from="1593192977881" duration="2026000" />
+      <workItem from="1593195381790" duration="4687000" />
+      <workItem from="1593262969184" duration="3389000" />
+      <workItem from="1593270751987" duration="4995000" />
+      <workItem from="1593428332456" duration="4314000" />
+      <workItem from="1593515459888" duration="9299000" />
+      <workItem from="1593606402145" duration="2820000" />
+      <workItem from="1593792651133" duration="799000" />
+      <workItem from="1593794934378" duration="7539000" />
+      <workItem from="1593861302344" duration="4050000" />
+      <workItem from="1593945471850" duration="9483000" />
+      <workItem from="1593980717262" duration="666000" />
+      <workItem from="1594054606601" duration="1307000" />
+      <workItem from="1594153292997" duration="1079000" />
+      <workItem from="1594208768120" duration="5872000" />
+      <workItem from="1594222499040" duration="7000" />
+      <workItem from="1594225292591" duration="453000" />
+      <workItem from="1594237619212" duration="666000" />
+      <workItem from="1594307453716" duration="1335000" />
+      <workItem from="1594646576689" duration="4945000" />
+      <workItem from="1594748597947" duration="4663000" />
+      <workItem from="1595260127973" duration="1223000" />
+      <workItem from="1595262557232" duration="1698000" />
+      <workItem from="1595343594762" duration="3998000" />
+      <workItem from="1595426166622" duration="601000" />
+      <workItem from="1598695894070" duration="5189000" />
+      <workItem from="1598878857082" duration="2065000" />
+      <workItem from="1598982744189" duration="3066000" />
+      <workItem from="1599056020997" duration="5821000" />
+      <workItem from="1599124332766" duration="13674000" />
+      <workItem from="1599223122567" duration="7886000" />
+      <workItem from="1599390818046" duration="4626000" />
+      <workItem from="1599559038114" duration="12449000" />
+      <workItem from="1599650634612" duration="6192000" />
+      <workItem from="1599665376580" duration="4480000" />
+      <workItem from="1599730533595" duration="9792000" />
+      <workItem from="1599826657452" duration="2099000" />
+      <workItem from="1599840879339" duration="5982000" />
+      <workItem from="1599908563566" duration="1203000" />
+      <workItem from="1599994718384" duration="1360000" />
+      <workItem from="1600077636580" duration="1433000" />
+      <workItem from="1600164124913" duration="16299000" />
+      <workItem from="1600258550892" duration="7185000" />
+      <workItem from="1600348664015" duration="9829000" />
+      <workItem from="1600439090282" duration="7062000" />
+      <workItem from="1600507896367" duration="9803000" />
+      <workItem from="1600536333073" duration="2649000" />
+      <workItem from="1600677818502" duration="6284000" />
+      <workItem from="1600775552001" duration="7503000" />
+      <workItem from="1600863977751" duration="8829000" />
+      <workItem from="1600941033567" duration="6112000" />
+      <workItem from="1600959968624" duration="2991000" />
+      <workItem from="1600968083323" duration="1844000" />
+      <workItem from="1600974786614" duration="6334000" />
+      <workItem from="1601034599836" duration="8296000" />
+      <workItem from="1601119979729" duration="602000" />
+      <workItem from="1601216254508" duration="5124000" />
+      <workItem from="1601312415182" duration="652000" />
+      <workItem from="1601383224369" duration="6766000" />
+      <workItem from="1601455062662" duration="4026000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Progect like me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Progect like me" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="323" y="57" key="#CLI_Interpreters" timestamp="1581014460826">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="464" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601407984852">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="263" y="43" key="#CLI_Interpreters/0.0.1366.768@0.0.1366.768" timestamp="1580919526730" />
-    <state x="323" y="57" key="#CLI_Interpreters/0.0.1680.1010@0.0.1680.1010" timestamp="1581014460826" />
-    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581009893836">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="464" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1601407984852" />
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600518515739">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="424" y="195" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1580920348826" />
-    <state x="521" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1581009893836" />
-    <state x="640" y="616" key="ComposerInitDialogKey" timestamp="1581006923476">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1600518515739" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601477463828">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="640" y="616" key="ComposerInitDialogKey/0.0.1680.1010@0.0.1680.1010" timestamp="1581006923476" />
-    <state x="763" y="147" key="FileChooserDialogImpl" timestamp="1581014443192">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601477463828" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1601456103650">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="620" y="112" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1580919522370" />
-    <state x="763" y="147" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1581014443192" />
-    <state x="518" y="316" key="NewPhpFileDialog" timestamp="1580920980622">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601456103650" />
+    <state x="436" y="92" key="NewPhpClassDialog" timestamp="1598984607624">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="518" y="316" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1580920980622" />
-    <state x="229" y="39" key="SettingsEditor" timestamp="1581014461439">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="436" y="92" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1598984607624" />
+    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1600515097977">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="186" y="30" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1580923273259" />
-    <state x="229" y="39" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1581014461439" />
-    <state x="113" y="121" width="1454" height="769" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581010250852">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1600515097977" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1598984580146">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1580926785330" />
-    <state x="113" y="121" width="1454" height="769" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581010250852" />
-    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1580926785330">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598984580146" />
+    <state x="-40" y="96" width="1273" height="545" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593862217874">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1580926785330" />
-    <state x="480" y="280" key="com.intellij.ide.util.TipDialog" timestamp="1581091095242">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="-40" y="96" width="1273" height="545" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1593862217874" />
+    <state x="400" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1600951766948">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="390" y="213" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1580991896997" />
-    <state x="480" y="280" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1581091095242" />
-    <state x="484" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581095585033">
-      <screen x="0" y="0" width="1680" height="1010" />
+    <state x="400" y="140" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1600951766948" />
+    <state x="339" y="167" key="run.anything.popup" timestamp="1600706994142">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="484" y="121" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1581095585033" />
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1580926469675">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1600706994142" />
+    <state x="475" y="228" key="scopes" timestamp="1601043181862">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1580926469675" />
+    <state x="475" y="228" key="scopes/0.0.1366.738@0.0.1366.738" timestamp="1601043181862" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599060424060">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1599060424060" />
   </component>
 </project>

@@ -5,10 +5,62 @@
     text-align: center;
     min-height: 50px;
 }
+#log{
+    margin-top: 2rem;
+}
+#photo-prof{
+    position: relative;
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+#log {
+    margin-right: 3rem;
+}
+#autouser{
+    margin-top: 150px;
+}
+#registeruser{
+    margin-top: 150px;
+}
+#bottomrg{
+    margin-top: 1rem;
+}
+#log h3{
+    margin-left: 3rem;
+}
+#photo-ready{
+    z-index: 100;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.cardInfouserl{
+    background-color: silver ;
+}
+#foruserupload{
+    margin-right: 3rem;
+}
+#prof-info {
+    background-image: url("https://alinagarbuz.com/wp-content/uploads/2016/08/1234-600x403.jpg");
+    margin-left: 3rem;
+    margin-bottom: 2rem;
+    width: 80%; height: 250px; border-radius: 21px 21px 0 0;
+
+}
+#prof-info h5{
+margin-left: 70px;
+    color: white;
+}
+#foruseruploud{
+    margin-left: 650px;
+}
+
 .site-header {
     background-color: rgba(0, 0, 0, .85);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
+}
+#forfilter{
+    margin-left: 2rem;
 }
 .site-header a {
     color: #999;
@@ -17,6 +69,13 @@
 .site-header a:hover {
     color: #fff;
     text-decoration: none;
+}
+#searching{
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+#RadioYe{
+    margin-left : 2rem;
 }
 body{
     font-family: 'Nunito',sans-serif;
@@ -60,4 +119,10 @@ body{
     color: black;
     background-color: white;
     text-decoration: none!important;
+}
+#formtest{
+    margin-top: 2rem;
+}
+#contenttest{
+    margin-top: 2rem;
 }
