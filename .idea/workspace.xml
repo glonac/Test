@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="Progect like me">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/Laravel_29_08_2020__13_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/b.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/b.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/frontend/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/frontend/main.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/main.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +35,20 @@
         <option value="Constanton" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Singularishere/knowledge" />
+        <option value="https://github.com/glonas22808/Test" />
+      </set>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -164,6 +168,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OpenServereeee\OSPanel\domains\knowledge\public\storage" />
+      <recent name="D:\OpenServereeee\OSPanel\domains\knowledge\storage\app\images" />
       <recent name="D:\OpenServereeee\OSPanel\domains\knowledge\app\Models" />
       <recent name="D:\OpenServereeee\OSPanel\domains\b\app\Models" />
     </key>
@@ -270,8 +276,20 @@
       <workItem from="1601216254508" duration="5124000" />
       <workItem from="1601312415182" duration="652000" />
       <workItem from="1601383224369" duration="6766000" />
-      <workItem from="1601455062662" duration="4026000" />
+      <workItem from="1601455062662" duration="6542000" />
+      <workItem from="1601480073331" duration="5959000" />
+      <workItem from="1601632322881" duration="9650000" />
+      <workItem from="1602411222641" duration="3413000" />
+      <workItem from="1602416679290" duration="1275000" />
     </task>
+    <task id="LOCAL-00001" summary="Progect like me">
+      <created>1601477501433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601477501433</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,12 +298,37 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
@@ -293,6 +336,12 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Progect like me" />
@@ -303,18 +352,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="464" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1601407984852" />
-    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1600518515739">
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601652062654">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1600518515739" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601477463828">
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601652062654" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1601477497940">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601477463828" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1601456103650">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601477497940" />
+    <state x="129" y="56" key="DiffContextDialog" timestamp="1601478444226">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601456103650" />
+    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1601478444226" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1601651779336">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1601651779336" />
     <state x="436" y="92" key="NewPhpClassDialog" timestamp="1598984607624">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -327,18 +380,26 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598984580146" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1601480560937">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601480560937" />
     <state x="-40" y="96" width="1273" height="545" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593862217874">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="-40" y="96" width="1273" height="545" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1593862217874" />
+    <state x="480" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601493183745">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="480" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601493183745" />
     <state x="400" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1600951766948">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="400" y="140" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1600951766948" />
-    <state x="339" y="167" key="run.anything.popup" timestamp="1600706994142">
+    <state x="339" y="167" key="run.anything.popup" timestamp="1601482156288">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="339" y="167" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1600706994142" />
+    <state x="339" y="167" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601482156288" />
     <state x="475" y="228" key="scopes" timestamp="1601043181862">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -18,7 +18,7 @@ Route::get('/log','UserController@show')->name('userinfo');
 Route::get('/auto', function () {
     return view('frontend.Auto');
 });
-Route::post('/updateimg','UserController@updateimg');
+Route::post('/updateimg','UserController@updateimg')->name('update-image');
 Route::get('/register', function () {
     return view('frontend.register');
 });
