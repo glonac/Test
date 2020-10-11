@@ -13,7 +13,8 @@ Route::get('/articles','ClauseController@list')->name('articles-list');
 Route::get('/test', function () {
     return view('frontend.test');
 });
-Route::get('/log','UserController@show')->name('userinfo');
+Route::get('/log','UserController@show' )->name('userinfo');
+Route::get('/exit','UserController@exit')->name('exit');
 
 Route::get('/auto', function () {
     return view('frontend.Auto');
