@@ -1,5 +1,6 @@
 <?php
 use Illuminate\Support\Facades\Route;
+
 //Route::get('/', function () {
 //    return 'Hello Worl';
 //});
@@ -13,7 +14,7 @@ Route::get('/articles','ClauseController@list')->name('articles-list');
 Route::get('/test', function () {
     return view('frontend.test');
 });
-Route::get('/log','UserController@show' )->name('userinfo');
+Route::get('/log','UserController@show' )->name('userinfo')->middleware('checksession');
 Route::get('/exit','UserController@exit')->name('exit');
 
 Route::get('/auto', function () {
