@@ -8,6 +8,15 @@
 #log{
     margin-top: 2rem;
 }
+#ready{
+    position: fixed;
+    margin-left: 150px;
+    margin-top: 10rem;
+
+}
+#ready h3{
+    margin-left: 39px;
+}
 #photo-prof{
     position: relative;
     margin-top: 2rem;
@@ -26,7 +35,7 @@
 #exampleModalLabel{
     margin-left: 55px;
 }
-.modal-body{
+#log-modal-body{
     margin-left: 43px;
 }
 
