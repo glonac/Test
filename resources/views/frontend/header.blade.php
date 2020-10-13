@@ -24,8 +24,8 @@
         <a class="py-2 d-none d-md-inline-block" href="test">Тест</a>
         <a class="py-2 d-none d-md-inline-block" href="check">Проверка</a>
         <a class="py-2 d-none d-md-inline-block" href="trening">Еще кое-что</a>
-        <a class="py-2 d-none d-md-inline-block" href="log">Личный кабинет</a>
-        <a class="py-2 d-none d-md-inline-block" href="auto">Вход</a>
+        <a class="py-2 d-none d-md-inline-block homehref " id="homehref" href="log">Личный кабинет</a>
+        <a class="py-2 d-none d-md-inline-block enterhref" href="auto">Вход</a>
     </div>
 </nav>
 <body>
@@ -49,6 +49,19 @@
 </html>
 <script>
     $(document).ready(function () {
+        $.ajax({
+            url: '{{route('navbar')}}',
+            success: function (response) {
+                if('success' in response) {
+                    $('.homehref').attr('style','display : block !important');
+                    $('.enterhref').attr('style','display : none !important');
+                }else {
+                    console.log('Все работает , а он не прячет');
+                    $('.homehref').attr('style','display : none !important');
+                }
+            }
+
+        });
 
     })
 </script>

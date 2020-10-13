@@ -13,6 +13,26 @@
     margin-top: 2rem;
     margin-left: 3rem;
 }
+#img-upload{
+    position: absolute;
+    z-index: 99999;
+    margin-left: 320px;
+    overflow: visible;
+    margin-top: 10px;
+}
+#exampleModal{
+    margin-top: 7rem;
+}
+#exampleModalLabel{
+    margin-left: 55px;
+}
+.modal-body{
+    margin-left: 43px;
+}
+
+#homehref{
+    display: none !important;
+}
 #exit{
     margin-left: 625px;
 }

@@ -17,6 +17,7 @@ Route::get('/test', function () {
 Route::get('/log','UserController@show' )->name('userinfo')->middleware('checksession');
 Route::get('/exit','UserController@exit')->name('exit');
 
+
 Route::get('/auto', function () {
     return view('frontend.Auto');
 });
@@ -36,7 +37,7 @@ Route::get('/trening',function (){
     return view ('frontend.trening');
 });
 Route::post('/search','TestController@search');
-
+Route::get('/header', 'NavbarController@navbar')->name('navbar');
 /*
 |--------------------------------------------------------------------------
 | Web Routes
