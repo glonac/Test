@@ -37,6 +37,7 @@ Route::get('/trening',function (){
     return view ('frontend.trening');
 });
 Route::post('/search','TestController@search');
+Route::post('/changelog','UserController@changelog');
 Route::get('/header', 'NavbarController@navbar')->name('navbar');
 /*
 |--------------------------------------------------------------------------
