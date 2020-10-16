@@ -284,7 +284,8 @@
       <workItem from="1602500554425" duration="13498000" />
       <workItem from="1602594037323" duration="11198000" />
       <workItem from="1602663457905" duration="3157000" />
-      <workItem from="1602772363161" duration="5930000" />
+      <workItem from="1602772363161" duration="7925000" />
+      <workItem from="1602843795311" duration="7691000" />
     </task>
     <task id="LOCAL-00001" summary="Progect like me">
       <created>1601477501433</created>
@@ -328,7 +329,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602624502139</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Наброски редактирования пользователя">
+      <created>1602785370761</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602785370761</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,21 +397,22 @@
     <MESSAGE value="some middleware" />
     <MESSAGE value="some fun" />
     <MESSAGE value="some fun anima" />
-    <option name="LAST_COMMIT_MESSAGE" value="some fun anima" />
+    <MESSAGE value="Наброски редактирования пользователя" />
+    <option name="LAST_COMMIT_MESSAGE" value="Наброски редактирования пользователя" />
   </component>
   <component name="WindowStateProjectService">
     <state x="464" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601407984852">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="464" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1601407984852" />
-    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1601652062654">
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602786312006">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601652062654" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602624500299">
+    <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602786312006" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602785368560">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602624500299" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1602785368560" />
     <state x="129" y="56" key="DiffContextDialog" timestamp="1601478444226">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -424,10 +433,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598984580146" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1602624502691">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1602785373425">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602624502691" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1602785373425" />
     <state x="480" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601493183745">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -444,9 +453,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="475" y="228" key="scopes/0.0.1366.738@0.0.1366.738" timestamp="1601043181862" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602433844477">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1602785897240">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602433844477" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1602785897240" />
   </component>
 </project>
