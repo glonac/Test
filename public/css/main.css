@@ -1,89 +1,119 @@
-#footer{
-    color: #999;
-    font-family: 'Nunito', sans-serif;
+#footer {
     background-color: black;
     text-align: center;
     min-height: 50px;
+    font-family: 'Playfair Display', serif
+
 }
-#log{
+
+nav {
+    font-family: 'Playfair Display', serif
+
+}
+
+#table {
+    overflow: auto;
+}
+
+.footer-item-block {
+    text-align: center;
+    padding: 0;
+}
+
+#log {
     margin-top: 2rem;
 }
-#ready{
+
+#ready {
     position: fixed;
     margin-left: 150px;
     margin-top: 10rem;
-
 }
-#ready h3{
+
+#ready h3 {
     margin-left: 39px;
 }
-#photo-prof{
+
+#photo-prof {
     position: relative;
     margin-top: 2rem;
     margin-left: 3rem;
 }
-#img-upload{
+
+#img-upload {
     position: absolute;
     z-index: 99999;
     margin-left: 320px;
     overflow: visible;
     margin-top: 10px;
 }
-#exampleModal{
+
+#exampleModal {
     margin-top: 7rem;
 }
-#exampleModalLabel{
-    margin-left: 55px;
-}
-#log-modal-body{
-    margin-left: 43px;
-}
 
-#homehref{
+#homehref {
     display: none !important;
 }
-#exit{
-    margin-left: 625px;
+
+@media only screen and (min-width: 544px) {
+    #foruseruploud {
+        margin-left: 650px;
+    }
+
+    #exit {
+
+        margin-left: 625px;
+    }
 }
+
+#foruserupload {
+    margin-right: 3rem;
+}
+
 #log {
     margin-right: 3rem;
 }
-#autouser{
+
+#autouser {
     margin-top: 150px;
 }
-#registeruser{
+
+#registeruser {
     margin-top: 150px;
 }
-#bottomrg{
+
+#bottomrg {
     margin-top: 1rem;
 }
-#log h3{
+
+#log h3 {
     margin-left: 3rem;
 }
-#photo-ready{
+
+#photo-ready {
     z-index: 100;
     margin-top: 100px;
     margin-left: 300px;
 }
-.cardInfouserl{
-    background-color: silver ;
+
+.cardInfouserl {
+    background-color: silver;
 }
-#foruserupload{
-    margin-right: 3rem;
-}
+
 #prof-info {
     background-image: url("https://alinagarbuz.com/wp-content/uploads/2016/08/1234-600x403.jpg");
     margin-left: 3rem;
     margin-bottom: 2rem;
-    width: 80%; height: 250px; border-radius: 21px 21px 0 0;
+    width: 80%;
+    height: 250px;
+    border-radius: 21px 21px 0 0;
 
 }
-#prof-info h5{
-margin-left: 70px;
+
+#prof-info h5 {
+    margin-left: 70px;
     color: white;
-}
-#foruseruploud{
-    margin-left: 650px;
 }
 
 .site-header {
@@ -91,74 +121,46 @@ margin-left: 70px;
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     backdrop-filter: saturate(180%) blur(20px);
 }
-#forfilter{
+
+#forfilter {
     margin-left: 2rem;
 }
+
 .site-header a {
     color: #999;
     transition: ease-in-out color .15s;
 }
+
+.body {
+    height: 100%;
+}
+
 .site-header a:hover {
     color: #fff;
-    text-decoration: none;
-}
-/*.nav{*/
-/*    display: block !important;*/
-/*}*/
 
-#searching{
+}
+
+.nav {
+    display: block !important;
+}
+
+#searching {
     margin-top: 2rem;
     margin-left: 2rem;
 }
-#RadioYe{
-    margin-left : 2rem;
+
+#RadioYe {
+    margin-left: 2rem;
 }
-body{
-    font-family: 'Nunito',sans-serif;
-    height: 100%;
+
+.container-fluid {
+    min-height: 100%;
 }
-.container-fluid{
-    min-height: 100% ;
-}
-/*.news-header{*/
-/*    font-size: 28px;*/
-/*    font-weight: bold;*/
-/*    width: 100%;*/
-/*    display: flex;*/
-/*    justify-content: center;*/
-/*    padding-top:1rem;*/
-/*    text-transform: uppercase;*/
-/*}*/
-/*.news-header span{*/
-/*    border-bottom: 2px solid black;*/
-/*}*/
-/*.news-list-column{*/
-/*    margin-bottom: 1rem;*/
-/*}*/
-/*.news-list-main-row{*/
-/*    margin: 2rem 0;*/
-/*}*/
-/*.news-show-button-back{*/
-/*    margin-left: 4rem;*/
-/*    margin-top: 4rem;*/
-/*    color:white;*/
-/*    background-color: black;*/
-/*}*/
-/*.news-show-button-back:hover{*/
-/*    color:black;*/
-/*    background-color: white;*/
-/*}*/
-/*.news-show-button-back a{*/
-/*    text-decoration: none!important;*/
-/*}*/
-/*.news-show-button-back a:hover{*/
-/*    color: black;*/
-/*    background-color: white;*/
-/*    text-decoration: none!important;*/
-/*}*/
-#formtest{
+
+#formtest {
     margin-top: 2rem;
 }
-#contenttest{
+
+#contenttest {
     margin-top: 2rem;
 }
