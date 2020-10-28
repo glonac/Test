@@ -36,7 +36,7 @@
                     <a class="p-2 nav-link d-md-inline-block nav-item" href="check">Проверка</a>
                 </li>
                 <li class="nav-item active  ">
-                    <a class="p-2 nav-link d-md-inline-block  nav-item" href="log">Личный кабинет</a>
+                    <a class="p-2 nav-link d-md-inline-block  nav-item" href="log">Профиль</a>
                 </li>
             </ul>
         </div>
