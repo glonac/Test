@@ -8,18 +8,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="change views">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" afterDir="false" />
+    <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/frontend/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/frontend/header.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution>
@@ -302,7 +300,8 @@
       <workItem from="1603733749361" duration="5508000" />
       <workItem from="1603794066896" duration="13063000" />
       <workItem from="1603808169537" duration="3180000" />
-      <workItem from="1603875891956" duration="3537000" />
+      <workItem from="1603875891956" duration="6492000" />
+      <workItem from="1603916261177" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="Progect like me">
       <created>1601477501433</created>
@@ -374,7 +373,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603806467063</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="trifle">
+      <created>1603894749682</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603894749682</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Test">
+      <created>1603916424974</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603916424974</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -439,9 +452,15 @@
     <MESSAGE value="Редактирование пользователя" />
     <MESSAGE value="Немного верстки" />
     <MESSAGE value="change views" />
-    <option name="LAST_COMMIT_MESSAGE" value="change views" />
+    <MESSAGE value="trifle" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="437" y="193" key="#Notifications" timestamp="1603916333837">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="437" y="193" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1603916333837" />
     <state x="464" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601407984852">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -450,10 +469,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602786312006" />
-    <state x="516" y="0" key="CommitChangelistDialog2" timestamp="1603831041428">
+    <state x="516" y="0" key="CommitChangelistDialog2" timestamp="1603916422889">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="516" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1603831041428" />
+    <state x="516" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1603916422889" />
     <state x="129" y="56" key="DiffContextDialog" timestamp="1601478444226">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -474,10 +493,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598984580146" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1603806468604">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1603916426801">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603806468604" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603916426801" />
     <state x="480" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601493183745">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
