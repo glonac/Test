@@ -9,7 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e093963a-fe8c-4275-9744-57d4819bcc33" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -302,6 +301,7 @@
       <workItem from="1603808169537" duration="3180000" />
       <workItem from="1603875891956" duration="6492000" />
       <workItem from="1603916261177" duration="237000" />
+      <workItem from="1603960528193" duration="823000" />
     </task>
     <task id="LOCAL-00001" summary="Progect like me">
       <created>1601477501433</created>
@@ -387,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603916424974</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="DB">
+      <created>1603960708885</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603960708886</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +461,8 @@
     <MESSAGE value="change views" />
     <MESSAGE value="trifle" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="DB" />
   </component>
   <component name="WindowStateProjectService">
     <state x="437" y="193" key="#Notifications" timestamp="1603916333837">
@@ -469,14 +477,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="124" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602786312006" />
-    <state x="516" y="0" key="CommitChangelistDialog2" timestamp="1603916422889">
+    <state x="516" y="0" key="CommitChangelistDialog2" timestamp="1603960705977">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="516" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1603916422889" />
-    <state x="129" y="56" key="DiffContextDialog" timestamp="1601478444226">
+    <state x="516" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1603960705977" />
+    <state x="129" y="56" key="DiffContextDialog" timestamp="1603960678851">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1601478444226" />
+    <state x="129" y="56" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1603960678851" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1603737719419">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -493,10 +501,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598984580146" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1603916426801">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1603960710629">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603916426801" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1603960710629" />
     <state x="480" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601493183745">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
